@@ -1,0 +1,84 @@
+
+.jumbotron{
+    height: 300px; 
+    color: #CB1616;
+
+}
+
+#page{
+
+
+
+    
+}
+
+#arrastar {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin: 10px 15px 15px 10px;
+    background: #FF5500;
+    text-align: center;
+    color: #fff;
+    border-radius: 50px;
+}
+
+#soltar {
+    position: absolute;
+    margin: 100px 15px 15px 600px;
+    width: 200px;
+    height: 200px;
+    background: #777777;
+    color: #fff;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#contenedor {
+
+    position: absolute;
+    left: 10%;
+    border: 10px solid;
+    
+}
+
+.fila {
+    display: inline-block;
+    margin: -7px;
+}
+
+.col-black {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background-color: black;
+}
+
+.col-white {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background-color: white;
+}
+
+.ficha1 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    background-color: #0D7A06;
+    margin-top: 12px;
+    margin-left: 12px;
+    border-radius: 25px;
+    box-shadow: 3px 4px 16px 0px rgba(0,0,0,0.75);
+}
+
+.ficha2 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    background-color: #E9B70D  ;
+    margin-top: 12px;
+    margin-left: 12px;
+    border-radius: 25px;
+    box-shadow: 3px 4px 16px 0px rgba(0,0,0,0.75);
+}

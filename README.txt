@@ -1,0 +1,2 @@
+Crear un documento HTML donde se construya la siguiente interfaz que simule un juego de damas clásico.
+Después de construir el HTML, agregarle funcionalidad para poder arrastrar las fichas y poder jugar el juego de damas como si lo hiciéramos con un tablero real.
